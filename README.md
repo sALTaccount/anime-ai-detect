@@ -1,6 +1,8 @@
 # Anime AI Art Detect
 A BEiT classifier to see if anime art was made by an AI or a human.
 
+View the huggingface [here](https://huggingface.co/saltacc/anime-ai-detect)
+
 ### Disclaimer
 Like most AI models, this classifier is not 100% accurate. Please do not take the results of this model as fact.
 
@@ -33,3 +35,5 @@ from file
 ```
 python3 infer.py --image <file path>
 ```
+
+or, you can use the [huggingface space](https://huggingface.co/spaces/saltacc/anime-ai-detect)
