@@ -26,6 +26,11 @@ removing AI art from a training dataset.
 
 # Usage
 
+Install requirements
+```
+pip install -r requirements.txt
+```
+
 from URL
 ```
 python3 infer.py --url <url here>
